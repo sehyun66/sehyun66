@@ -23,5 +23,5 @@
     ## * 구현 화면
     ---
     ![Web](web_capture.png)
-    ![Android](app_capture.png)
+   
     ---
